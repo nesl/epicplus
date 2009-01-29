@@ -1,0 +1,27 @@
+Comment,LibRef,Quantity,Value,Notes,Digikey Link,Digi-Key Part Number,Manuf. Part Nr.,Description,Price p. p.,Order Quantity,,Approx Cost
+,,,,,,,,,,,,
+CUI Inc,,1,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=CP1-3525NG-ND,CP1-3525NG-ND,SJ1-3525NG,CONN JACK STEREO R/A 5PIN 3.5MM,0.45,5,,2.25
+Capacitor,Cap,10,"0.1u, 0.1u 10%, 1u, 10p, 100p, 100pF, 200p, 1000p 10%",,,,,,,,,
+Capacitor,Cap2,9,"1u, 10u, 150u",,,,,,,,,
+TEMD6010FX01,Light Diode,1,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=751-1051-1-ND,751-1051-1-ND,TEMD6010FX01,PHOTODIODE PIN MINI FLAT SMD,2.46,5,,12.3
+Loudspeaker,Speaker,1,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=102-1563-ND,102-1563-ND,CLS0301-L152,"SPEAKER 8OHMS 1.0W 30MM 6"" LEADS",4.15,5,,20.75
+Microphone,Mic2,1,,replace with CMA-4544PF-W,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=102-1721-ND,102-1721-ND,CMA-4544PF-W,MIC CONDENSER ELECT OMNI -44DB,0.66,5,,3.3
+Header 8,Header 8,4,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=WM8078-ND,WM8078-ND,90120-0128,"CONN HEADER 8POS .100"" STR TIN",0.82,20,,16.4
+Header 9,Header 9,6,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=WM8079-ND,WM8079-ND,90120-0129,"CONN HEADER 9POS .100"" STR TIN",0.92,30,,27.6
+Res3,Res3,15,"0, 1k, 2.2k 5%, 10k, 10k 5%, 20k, 100k, 100k 5%, 113k",,,,,,,,,
+AD/AD5242-1m,AD/AD5242,1,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=AD5242BRZ1M-ND,AD5242BRZ1M-ND,AD5242BRZ1M,IC POT DGTL DUAL 256POS 16SOIC,3.17,5,,15.85
+AD/AD5242-10k,AD/AD5242,1,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=AD5242BRZ10-ND,AD5242BRZ10-ND,AD5242BRZ10,IC POT DGTL DUAL 256POS 16SOIC,3.17,5,,15.85
+AD/SSM2167,AD/SSM2167,1,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=SSM2167-1RMZ-REELCT-ND,SSM2167-1RMZ-REELCT-ND,SSM2167-1RMZ-REEL,IC MICROPHONE PREAMP 10-MSOP,2.34,5,,11.7
+SHT11,SHT11,1,,,direct from sensirion.com,,,,,5,,
+TI/TPA0233,TI/TPA0233,1,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=296-7003-1-ND,296-7003-1-ND,TPA0233DGQR,IC 2W MONO AUD PWR AMP 10-MSOP,2.59,5,,12.95
+AD5247-10k,AD5247BKS10-R2,1,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=AD5247BKSZ10-RL7CT-ND,AD5247BKSZ10-RL7CT-ND,AD5247BKSZ10-RL7,IC POT DGTL 10K 128POS SC70-6,1.25,5,,6.25
+LMV931,LMV321M5,1,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=296-18469-1-ND,296-18469-1-ND,LMV931IDBVR,IC SNGL OPAMP R-R I/O SOT23-5,0.78,5,,3.9
+Crystal 8MHz,CRYSTAL_0,1,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=XC1592CT-ND,XC1592CT-ND,ECS-80-20-5PVX,CRYSTAL 8.000 MHZ 20PF SMD,1.02,5,,5.1
+,,,,,,,,,,,,
+Header 8 female,,4,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=S7006-ND,S7006-ND,PPTC081LFBN-RC,"CONN HEADER FEMALE 8POS .1"" TIN",0.74,20,,14.8
+Header 9 female,,4,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=S7007-ND,S7007-ND,PPTC091LFBN-RC,"CONN HEADER FEMALE 9POS .1"" TIN",0.83,20,,16.6
+,,,,,,,,,,,,
+,,,,,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=S1212E-36-ND,S1212E-36-ND,PEC36SFAN,CONN HEADER .100 SINGL STR 36POS,1.6,10,,16
+Num Nodes,5,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,201.6
