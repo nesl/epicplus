@@ -1,28 +1,5 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Project [EPICPLUS.PRJPCB]
-   Generated File[EpicPlus.GTL]
-   Generated File[EpicPlus.GP1]
-   Generated File[EpicPlus.GP2]
-   Generated File[EpicPlus.GBL]
-   Generated File[EpicPlus.GTO]
-   Generated File[EpicPlus.GBO]
-   Generated File[EpicPlus.GTP]
-   Generated File[EpicPlus.GBP]
-   Generated File[EpicPlus.GTS]
-   Generated File[EpicPlus.GBS]
-   Generated File[EpicPlus.GKO]
-   Generated File[EpicPlus.GM1]
-   Generated File[EpicPlus.GM13]
-   Generated File[EpicPlus.GM15]
-   Generated File[EpicPlus.GPT]
-   Generated File[EpicPlus.GPB]
-   Generated File[EpicPlus.RUL]
-   Generated File[EpicPlus.EXTREP]
-   Generated File[EpicPlus.REP]
 
-
-Files Generated   : 19
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 4:48:07 PM On 2/3/2009
+Finished Output Generation At 5:17:27 PM On 2/8/2009
