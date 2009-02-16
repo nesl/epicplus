@@ -1,5 +1,56 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [EpicPlus.PcbDoc]
+   Generated File[EpicPlus.GTL]
+   Generated File[EpicPlus.GP1]
+   Generated File[EpicPlus.GP2]
+   Generated File[EpicPlus.GBL]
+   Generated File[EpicPlus.GTO]
+   Generated File[EpicPlus.GBO]
+   Generated File[EpicPlus.GTP]
+   Generated File[EpicPlus.GBP]
+   Generated File[EpicPlus.GTS]
+   Generated File[EpicPlus.GBS]
+   Generated File[EpicPlus.GKO]
+   Generated File[EpicPlus.GM1]
+   Generated File[EpicPlus.GM10]
+   Generated File[EpicPlus.GM13]
+   Generated File[EpicPlus.GM15]
+   Generated File[EpicPlus.GM16]
+   Generated File[EpicPlus.GPT]
+   Generated File[EpicPlus.GPB]
+   Generated File[EpicPlus.GD1]
+   Generated File[EpicPlus.GG1]
+   Generated File[EpicPlus.RUL]
+   Generated File[EpicPlus.EXTREP]
+   Generated File[EpicPlus.REP]
 
-Files Generated   : 0
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [EpicPlus.PcbDoc]
+   Generated File[EpicPlus.TXT]
+   Generated File[EpicPlus.DRL]
+   Generated File[EpicPlus.LDP]
+   Generated File[EpicPlus.DRR]
+
+Output: Bill of Materials
+Type  : ReportComponents
+From  : Project [EPICPLUS.PRJPCB]
+   Generated File[Bill of Materials-EPICPLUS.xls]
+
+Output: Component Cross Reference Report
+Type  : ReportComponents
+From  : Project [EPICPLUS.PRJPCB]
+   Generated File[Component Cross Reference Report-EPICPLUS.xls]
+
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Project [EPICPLUS.PRJPCB]
+   Generated File[EPICPLUS.BOM]
+   Generated File[EPICPLUS.CSV]
+
+
+Files Generated   : 31
 Documents Printed : 0
 
-Finished Output Generation At 5:17:27 PM On 2/8/2009
+Finished Output Generation At 7:03:40 PM On 2/13/2009

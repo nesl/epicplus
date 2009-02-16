@@ -1,0 +1,18 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~369|ReportField=ProjectFileName~EpicPlus.PrjPCB|ReportField=ProjectFullPath~D:\thomas\EpicPlus\EpicPlus.PrjPCB|ReportField=Title~Bill of Materials For Project [EpicPlus.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~56|ReportField=ReportTime~4:37:11 PM|ReportField=ReportDate~1/27/2009|ReportField=ReportDateTime~1/27/2009 4:37:11 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~ReportComponents|ReportField=GeneratorDescription~Component Reports|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~Thomas Schmid|ReportField=CheckedBy~|ReportField=CompanyName~UCLA NESL|ReportField=CurrentDate~1/27/2009|ReportField=CurrentTime~4:35:54 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\thomas\EpicPlus\MainBoard.SchDoc|ReportField=DocumentName~MainBoard.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~1/27/2009|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Epic Plus|ReportField=DataSourceFileName~EpicPlus.PrjPCB|ReportField=DataSourceFullPath~D:\thomas\EpicPlus\EpicPlus.PrjPCB
+Switchcraft/4BHNTR||*?||Switchcraft/4BHNTR|1|
+Cap|Capacitor|C?||Cap|10|0.1u, 0.1u 10%, 1u, 10p, 100p, 100pF, 200p, 1000p 10%
+Cap2|Capacitor|C?||Cap2|9|1u, 10u, 150u
+S9067-01|Default Diode|D?||Diode|1|
+Speaker 8Ohm|Loudspeaker|LS?|PIN2|Speaker|1|
+Mic2|Microphone|MK?|PIN2|Mic2|1|
+Header 8|Header, 8-Pin|P?|HDR1X8|Header 8|4|
+Header 9|Header, 9-Pin|P?|HDR1X9|Header 9|6|
+Res3|Resistor|R*?, R?|J1-0603|Res3|15|0, 1k, 2.2k 5%, 10k, 10k 5%, 20k, 100k, 100k 5%, 113k
+AD/AD5242-1m||U*?||AD/AD5242|1|
+AD/AD5242-10k||U*?||AD/AD5242|1|
+AD/SSM2167||U*?||AD/SSM2167|1|
+SHT11||U*?||SHT11|1|
+TI/TPA0233||U*?||TI/TPA0233|1|
+AD5247-10k||U?||AD5247BKS10-R2|1|
+LMV931|Single General-Purpose, Low-Voltage Rail-to-Rail Output Operational Amplifier|U?||LMV321M5|1|
+Crystal 8MHz||Y?||CRYSTAL_0|1|

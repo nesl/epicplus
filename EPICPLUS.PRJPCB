@@ -2,7 +2,7 @@
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
-OutputPath=
+OutputPath=Project Outputs for EPICPLUS
 ChannelDesignatorFormatString=$Component_$RoomName
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
@@ -94,84 +94,99 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [GeneratedDocument1]
-DocumentPath=ProjectOutputs\Design Rule Check - EpicPlus.html
+DocumentPath=Project Outputs for EPICPLUS\Bill of Materials-EPICPLUS.xls
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for EpicPlus\EpicPlus.CSV
+DocumentPath=Project Outputs for EPICPLUS\Component Cross Reference Report-EPICPLUS.xls
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.DRL
+DocumentPath=ProjectOutputs\Design Rule Check - EpicPlus.html
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.DRR
+DocumentPath=Project Outputs for EPICPLUS\EPICPLUS.BOM
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.EXTREP
+DocumentPath=Project Outputs for EpicPlus\EpicPlus.CSV
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GBL
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.DRL
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GBO
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.DRR
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GBP
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.EXTREP
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GBS
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GBL
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GD1
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GBO
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GG1
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GBP
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GKO
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GBS
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GM1
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GD1
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GM13
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GG1
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GM15
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GKO
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GP1
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GM1
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GP2
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GM10
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GPB
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GM13
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GPT
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GM15
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GTL
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GM16
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GTO
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GP1
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GTP
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GP2
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GTS
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GPB
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.LDP
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GPT
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.REP
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GTL
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for EPICPLUS\EpicPlus.RUL
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GTO
 
 [GeneratedDocument27]
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GTP
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.GTS
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.LDP
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.REP
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for EPICPLUS\EpicPlus.RUL
+
+[GeneratedDocument32]
 DocumentPath=Project Outputs for EPICPLUS\EpicPlus.TXT
 
 [SearchPath1]
@@ -290,7 +305,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Brother Home (from thomas-laptop) in session 2
+TargetPrinter=
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -349,11 +364,11 @@ OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType6=Schematic Print
 OutputName6=Schematic Prints
-OutputDocumentPath6=D:\thomas\EPICPLUS_SVN\trunk\MainBoard.SchDoc
+OutputDocumentPath6=
 OutputVariantName6=
 OutputEnabled6=1
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.70|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=2794|PaperWidth=2159|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=ANSI A|PrintScaleMode=1
 Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False
 OutputType7=SimView Print
